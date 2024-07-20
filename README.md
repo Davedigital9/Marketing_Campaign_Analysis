@@ -47,10 +47,11 @@ To create a simple dashboard that displays the top YouTubers in the UK by: subsc
 
 ## Discovery
 We discovered that
-1. NoCopyrightSOunds, Dan Rhodes, DanTDM, and Miss Katy are the channnels with the most subscribers in the UK
-2. GRM Daily, Man City, and Yogscast are the channels with the most videos uploaded
-3. DanTDM, Dan RHodes, and Mister Max are the channels with the most views
-4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music.
+1. NoCopyrightSOunds, Dan Rhodes, and DanTDM are the channnels with the most subscribers in the UK.
+2. GRM Daily, Man City, and Yogscast are the channels with the most videos uploaded.
+3. DanTDM, Dan RHodes, and Mister Max are the channels with the most views.
+4. Miss Katy and Mister Max have the highest subcriber engagement rates.
+5. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music.
 
 ## Recommendations
 What are your recommendations based on the insights gathered?
@@ -68,7 +69,7 @@ What ROI do we expect if we take this course of action?
 
 ## Action plan
 What course of action should we take and why?
-Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel. This is to utilize its visibility. Also, considerations can be made for a partnership deal with Miss Katy as her audience are more likely to interact with her videos.
+Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel. This is to utilize its visibility. Also, considerations can be made for a partnership deal with Miss Katy and Mister Max as their audience are more likely to interact with their videos.
 
 We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with Miss Katy, Mister Max and NoCopyrightSounds channels in the future.
 
